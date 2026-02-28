@@ -1,0 +1,58 @@
+body{
+    background-color: tan;
+    color: white;
+    font-size: 18px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif :
+}
+
+.Recipes{
+    color: white;
+    text-align: center;
+    list-style: none;
+   margin-left: -30px;
+   
+}
+
+.Home{
+    text-align: center;
+    margin-left: 20px;
+    padding: 40px 0px;
+    font-size: 25px;
+    display: block;
+    block-size: 50px;
+    color: white;
+}
+
+img{
+    width: 400px;
+    height: auto;
+    display: block;
+    block-size: 50px 100px;
+    margin-left: 395px;
+    padding: 30px;
+    background-color: white;
+}
+
+h1{
+text-align: center;
+background-color: white;
+color: black;
+}
+
+.DirectionsQuote{
+text-align: center;
+padding: 15px ;
+margin: 10px -10px;
+background-color: white;
+color: black;
+font-size: 22px;
+}
+
+.Intro{
+text-align: center;
+padding: 15px ;
+margin: 30px -10px;
+background-color: white;
+color: black;
+font-size: 22px;
+}
